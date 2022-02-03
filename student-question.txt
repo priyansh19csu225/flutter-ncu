@@ -1,0 +1,30 @@
+Question. Create a Student Class, 
+Input : From the Student
+Rollno : 
+Name : ajay KUmar sHaRma
+Ajay Kumar Sharma
+3 Subject Marks : Out of 100
+90
+80
+77
+
+Total Marks 
+Percentage
+Grade
+>=90 - A Grade
+<90 - >=70 B Grade
+<70 to >=60 C Grade
+<60 to >=50 D Grade
+E Grade
+
+CollegeName : Fixed
+
+College Name : All Caps
+Name : Proper Case
+Subjects 
+Total 
+Percentage
+Grade
+
+Note : Named Constructor, Setter and Getter, Compulsory parameter, optional parameter
+SRP Follow, Good Encapsulation.
