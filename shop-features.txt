@@ -1,0 +1,25 @@
+Seller
+
+
+Buyer
+Buy Now 
+a) Payment Integration
+b) Order, Transaction
+
+
+Product Category
+
+Seller Add Product Category (Mobiles, Clothes, Shoes)
+
+Buyer category —> Products (Sort, Filter)
+
+Add to Cart
+
+Cart View
+Remove Items
+
+Order History
+
+
+Estimated Time , Del By: 
+
